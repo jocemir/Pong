@@ -416,3 +416,7 @@ O código apresentado define uma função chamada reset_game() que é responsáv
 <p align="center">
 <img src="img/fsm.jpg"><img>
 </p>
+    
+### - Arquivo Executável
+
+O arquivo executável do jogo se encontra na pasta /dist
